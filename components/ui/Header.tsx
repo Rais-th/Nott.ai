@@ -34,12 +34,9 @@ export default function Header() {
                 avatarBox: 'h-8 w-8 md:h-9 md:w-9',
                 userButtonPopoverCard: 'border border-gray-200 shadow-lg',
                 userButtonTrigger: 'ring-[#006400] hover:ring-2',
-              },
-              baseTheme: {
-                colors: {
-                  primary: '#006400',
-                },
-              },
+                userButtonPopoverActionButtonText: 'text-[#006400]',
+                userButtonPopoverActionButtonIcon: 'text-[#006400]'
+              }
             }}
           />
         </div>
