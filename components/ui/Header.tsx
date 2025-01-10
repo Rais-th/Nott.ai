@@ -35,8 +35,10 @@ export default function Header() {
                 userButtonPopoverCard: 'border border-gray-200 shadow-lg',
                 userButtonTrigger: 'ring-[#006400] hover:ring-2',
               },
-              variables: {
-                colorPrimary: '#006400',
+              baseTheme: {
+                colors: {
+                  primary: '#006400',
+                },
               },
             }}
           />

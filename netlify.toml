@@ -3,15 +3,7 @@
   publish = ".next"
 
 [build.environment]
-  NODE_VERSION = "18"
+  NEXT_TELEMETRY_DISABLED = "1"
 
 [[plugins]]
-  package = "@netlify/plugin-nextjs"
-
-[[redirects]]
-from = "/*"
-to = "/index.html"
-status = 200
-
-[functions]
-included_files = ["node_modules/@clerk/**/*"] 
+  package = "@netlify/plugin-nextjs" 
