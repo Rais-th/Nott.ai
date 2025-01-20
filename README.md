@@ -1,6 +1,6 @@
 <a href="https://popuzar.com/">
   <img alt="Nott AI - Note taking in seconds.>
-  <h1 align="center">notesGPT</h1>
+  <h1 align="center">Nott AI</h1>
 </a>
 
 <p align="center">
