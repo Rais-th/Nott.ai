@@ -1,5 +1,5 @@
 <a href="https://popuzar.com/">
-  <img alt="Nott AI - Note taking in seconds." src="/public/images/og-image.png">
+  <img alt="Nott AI - Note taking in seconds.>
   <h1 align="center">notesGPT</h1>
 </a>
 
