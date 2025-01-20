@@ -1,5 +1,5 @@
-<a href="https://usenotesgpt.com/">
-  <img alt="NotesGPT – AI-powered voice note taking in seconds." src="/public/images/og-image.png">
+<a href="https://popuzar.com/">
+  <img alt="Nott AI - Note taking in seconds." src="/public/images/og-image.png">
   <h1 align="center">notesGPT</h1>
 </a>
 
